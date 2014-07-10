@@ -1,7 +1,7 @@
 This is a project in which we endeavour to perform some analysis 
 of the weather.
 
-I am particularly interested in how ambient weather is associated 
+We are particularly interested in how ambient weather is associated 
 with changes in Lake Michigan's water shore temperature.  
 
 We are not weather expects and understand the difficulty of 
