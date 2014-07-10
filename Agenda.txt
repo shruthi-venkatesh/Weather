@@ -1,0 +1,10 @@
+1) Fill out as many useful UNIX commands as possible, especially if means asking God.
+
+2) Learn the vocabulary. 
+
+3) Learn about pulling and sharing code. And want to practice this next time
+	with a same name code document in each of our repositories.  
+
+4) See if I can give Shurthi full permission.
+
+5) Learn how to do all the different types of forking.
